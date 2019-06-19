@@ -1,1 +1,7 @@
-# Comparative-Analysis-of-Features-Selection-Techniques-for-Classification-in-Healthcare
+<h1>Comparative-Analysis-of-Features-Selection-Techniques-for-Classification-in-Healthcare</h1>
+
+<p1> Analyzing high-dimensional data is a major challenge in the field of data mining. Features selection is an effective way to remove irrelevant information from the data. Prior research has utilized the Apriori frequent-set mining approach to discover the relevant and interrelated features in the health domain. However, the comparison of the Apriori algorithm with other features selection approaches is absent in the literature. This paper aims to compare the state-of-the-art features selection techniques with Apriori in the presence of thousands of features in a healthcare dataset. After the features are selected we perform a three-class classification using a number of machine-learning algorithms where patients are classified according to the pain medication they consume. Results revealed that among LASSO, ridge regression, PCA, information gain, Apriori, and correlation-based features selection techniques, LASSO followed by classification gave the highest accuracy. We highlight the implications of using feature-selection algorithms before classification in healthcare datasets. </p>
+<h4>  For more information and results: <a href="https://www.researchgate.net/publication/332932881_Comparative_Analysis_of_Features_Selection_Techniques_for_Classification_in_Healthcare" > Link </a>
+
+
+</h4>
